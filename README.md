@@ -19,7 +19,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/weather.git
+   git clone https://github.com/Xeney/weather.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
